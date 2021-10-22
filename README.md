@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eryk</h1>
 <h3 align="center">I'm a first year computer science and econometry student</h3>
 
-- 🔭 I’m currently working on **passing my 2nd semester**
+- 🔭 I’m currently working on **passing my 3rd semester**
 
 - 🌱 I’m currently learning **Java, JavaScript and HTML5**
 
